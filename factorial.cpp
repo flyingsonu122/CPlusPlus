@@ -17,8 +17,10 @@ unsigned long long factorial(int n)
 int main()
 {
     int num;
-    cout << "Enter number to find it's factorial : ";
+    cout << "Enter number to find it's factorial ( <= 65 ): ";
     cin >> num;
     unsigned long long result = factorial(num);
     cout << "factorial of " << num << " is " << result << endl;
+
+    return 0;
 }
