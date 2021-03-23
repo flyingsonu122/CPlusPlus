@@ -15,8 +15,12 @@ int main()
             prime = 1;
         }
     }
+    if (number <= 0)
+    {
+        cout << "number is <= 0 " << endl;
+    }
 
-    if (number == 1)
+    else if (number == 1)
     {
         cout << "1 is Not a Prime Number" << endl;
     }
