@@ -1,7 +1,6 @@
+# Simple C++ programs
 
-## simple C++ programs
-
-### Test it live on [https://www.sololearn.com/Play/CPlusPlus](https://www.sololearn.com/Play/CPlusPlus)
+## Test it live on [sololearn.com/Play/CPlusPlus](https://www.sololearn.com/Play/CPlusPlus)
 
 
 <br><br><br>
